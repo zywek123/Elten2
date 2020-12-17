@@ -1,0 +1,8 @@
+build/
+out/
+private/
+lib/eltenvc/release
+*.mo
+*.exe
+*.dll
+*.obj
